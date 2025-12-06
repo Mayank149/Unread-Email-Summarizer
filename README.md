@@ -36,7 +36,7 @@ daily-email-summarizer/
 ├── README.md            # This file
 ├── daily_summary.md     # Generated summary (after running)
 └── .kiro/               # Kiro demo and session files
-    ├── demo-recording.webm
+    ├── daily-email-summarizer demo.mp4
     └── session.json
 ```
 

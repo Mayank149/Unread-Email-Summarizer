@@ -5,7 +5,7 @@ This folder contains demonstration materials for the Daily Email Summarizer proj
 ## Contents
 
 - **session.json**: Project development session details and steps
-- **daily-email-summarizer demo.mp4**: Video demonstration of the script in action (to be recorded)
+- **daily-email-summarizer demo.mp4**: Video demonstration of the script in action
 
 
 ## Notes
